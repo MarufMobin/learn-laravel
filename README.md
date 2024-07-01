@@ -219,13 +219,13 @@ These experts regularly share insightful tips, tutorials, and updates about Lara
 
 🌟 Enjoyed these handpicked resources? Let's connect on different platforms! Feel free to reach out for more insights and updates on the wonderful world of Laravel.
 
-🐦 **Twitter:** [@alnahian2003](https://twitter.com/alnahian2003)
+🐦 **Twitter:** [@mubin_maruf](https://twitter.com/mubin_maruf)
 
-🐙 **GitHub:** [@alnahian2003](https://github.com/alnahian2003)
+🐙 **GitHub:** [@marufmobin](https://github.com/marufmobin)
 
-📘 **Facebook:** [alnahian2003](https://facebook.com/alnahian2003)
+📘 **Facebook:** [MarufMobin](https://www.facebook.com/marufmobin.bd)
 
-🔗 **dev.to:** [alnahian2003](https://dev.to/alnahian2003)
+🔗 **dev.to:** [marufmobin](https://dev.to/marufmobin)
 
 Don't forget, **the real gem awaits in the [Official Laravel Documentation](https://laravel.com/docs/master/)** – a true treasure trove for your learning journey.
 
